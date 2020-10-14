@@ -15,7 +15,7 @@ function OrphanagesMap() {
             <aside>
                 <header>
                     <img src={mapMarkerImg} alt="happy" />
-                    <h2>Choose a workshop on the map:</h2>
+                    <h2>Choose a orphanage on the map:</h2>
                     <p>Many children are waiting for your visit :)</p>
                 </header>
                 <footer>
@@ -24,8 +24,8 @@ function OrphanagesMap() {
                 </footer>
             </aside>
             <Map
-                center={[-22.872064, -43.3717248]}
-                zoom={15}
+                center={[59.3262416, 17.8416261]}
+                zoom={11}
                 style={{ width: '100%', height: '100%' }}
             >
 

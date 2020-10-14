@@ -1,8 +1,5 @@
-
-![alt text](http://url/to/img.png)
-
-# Happy App- Bring Happiness to a child!
-
+# Happy App - Bring Happiness to a child!
+![logo](https://raw.githubusercontent.com/billiemoreira/nlw3-happy/main/src/images/happy-github.png)
 ## About
 
 An application web and mobile where any user in the city of Stockholm can search for orphanages or register their favorite orphanage so that they can find a nearby orphanage and do some charity or visit the children there. This is a project of the third edition of the Rocketseat Next Level Week event.
@@ -33,6 +30,7 @@ Soon!
 
 - ReactJS and React Native;
 - TypeScript;
+- NodeJS;
 - React Router DOM;
 - Leaflet;
 - API Mapbox.
@@ -40,4 +38,3 @@ Soon!
 # License
 
 This project is under MIT license.
-
