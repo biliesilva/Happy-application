@@ -1,8 +1,8 @@
 # Happy App - Bring Happiness to a child
 
-![logo](https://raw.githubusercontent.com/billiemoreira/nlw3-happy/main/src/images/happy-github.png)
-![logo](https://raw.githubusercontent.com/billiemoreira/nlw3-happy/main/src/images/happy-github.png)
-![logo](https://raw.githubusercontent.com/billiemoreira/nlw3-happy/main/src/images/happy-github.png)
+![Web](https://raw.githubusercontent.com/billiemoreira/nlw3-happy/master/github-images/landing-page1.png)
+![Web Map](https://raw.githubusercontent.com/billiemoreira/nlw3-happy/master/github-images/landingi-page2.png)
+![Web Register](https://raw.githubusercontent.com/billiemoreira/nlw3-happy/master/github-images/lading-page3.png)
 
 ## About
 
