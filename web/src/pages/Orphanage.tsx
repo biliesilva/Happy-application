@@ -101,14 +101,14 @@ export default function Orphanage() {
                                     rel="noopener noreferrer"
                                     href={`https://www.google.com/maps/dir/?api=1&destination=${orphanage.latitude},${orphanage.longitude}`}
                                 >
-                                    See routes in the Google Maps
+                                    See locales in the Google Maps
                 </a>
                             </footer>
                         </div>
 
                         <hr />
 
-                        <h2>Instructions for visits</h2>
+                        <h2>Registration</h2>
                         <p>{orphanage.instructions}</p>
 
                         <div className="open-details">
