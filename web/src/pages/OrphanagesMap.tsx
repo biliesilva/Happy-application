@@ -31,8 +31,8 @@ const OrphanagesMap: React.FC = () => {
                 <header>
                     <img src={mapMakerImg} alt="Happy" />
 
-                    <h2>Choose a donation place in the map</h2>
-                    <p>You can also register a new donate place. :)</p>
+                    <h2>Choose a orphanage in the map</h2>
+                    <p>Many childrens are waiting your visit :)</p>
                 </header>
 
                 <footer>

@@ -11,8 +11,8 @@ const Landing: React.FC = () => {
                 <img src={logoImg} alt="Happy" />
 
                 <main>
-                    <h1>Donate a book and make someone happy!</h1>
-                    <p>Find book donation places where you can donate or win books.</p>
+                    <h1>Bring hapiness to the world!</h1>
+                    <p>Visit an orphanage and change many children's day.</p>
                 </main>
 
                 <div className="location">

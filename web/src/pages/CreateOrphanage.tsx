@@ -63,7 +63,7 @@ export default function CreateOrphanage() {
 
         await api.post("/orphanages", data);
 
-        alert("Cadastro realizado com sucesso!");
+        alert("Successful registration!");
 
         history.push("/app");
     };
@@ -75,7 +75,7 @@ export default function CreateOrphanage() {
             <main>
                 <form onSubmit={handleSubmit} className="create-orphanage-form">
                     <fieldset>
-                        <legend>Informations</legend>
+                        <legend>Register</legend>
 
                         <Map
                             center={[-23.5077632, -46.2979072]}
@@ -140,7 +140,7 @@ export default function CreateOrphanage() {
                     </fieldset>
 
                     <fieldset>
-                        <legend>Book an pick up!</legend>
+                        <legend>Book a visit!</legend>
 
                         <div className="input-block">
                             <label htmlFor="instructions">Instructions</label>

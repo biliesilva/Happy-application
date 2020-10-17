@@ -26,6 +26,7 @@ $ yarn install
 
 $ yarn start
 ```
+
 ## Technologies used
 
 - ReactJS and React Native;
@@ -36,5 +37,3 @@ $ yarn start
 - React Router DOM;
 - Leaflet;
 - API Mapbox.
-
-

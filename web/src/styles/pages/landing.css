@@ -1,7 +1,7 @@
 #page-landing {
   width: 100vw;
   height: 100vh;
-  background: linear-gradient(329.54deg, #23075E 0%, #1E0C45 100%);
+  background: linear-gradient(329.54deg, #29b6d1 0%, #00c7c7 100%);
 
   display: flex;
   justify-content: center;
@@ -14,14 +14,14 @@
   width: 100%;
   max-width: 1100px;
   height: 100%;
-  max-height: 730px;
+  max-height: 680px;
 
   display: flex;
   align-items: flex-start;
   flex-direction: column;
   justify-content: space-between;
 
-  background: url(../../images/landing.svg) no-repeat 140% center;
+  background: url('../../images/Landing.svg') no-repeat 80% center;
 }
 
 #page-landing .content-wrapper main {
@@ -29,9 +29,9 @@
 }
 
 #page-landing .content-wrapper main h1 {
-  font-size: 50px;
+  font-size: 76px;
   font-weight: 900;
-  line-height: 60px;
+  line-height: 70px;
 }
 
 #page-landing .content-wrapper main p {
@@ -66,7 +66,7 @@
 
   width: 80px;
   height: 80px;
-  background: #FFD666;
+  background: #ffd666;
   border-radius: 30px;
 
   display: flex;
