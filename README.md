@@ -1,12 +1,10 @@
-# Happy App - Donate a book and make someone happy
+# Happy App - Bring happiness to the world
 
-![Web](https://raw.githubusercontent.com/billiemoreira/nlw3-happy/master/github-images/landing-page1.png)
-![Web Map](https://raw.githubusercontent.com/billiemoreira/nlw3-happy/master/github-images/landingi-page2.png)
-![Web Register](https://raw.githubusercontent.com/billiemoreira/nlw3-happy/master/github-images/lading-page3.png)
+![Web](https://raw.githubusercontent.com/billiemoreira/nlw3-happy/master/web/src/images/happy-github.png)
 
 ## About
 
-An web and mobile application where any user can find places where donate books. You can also register new places. This is a project of the third edition of the [Rocketseat](https://github.com/Rocketseat) Next Level Week event made with ReactJS and React Native.
+An web and mobile application where the user can register orphanages or look for one to visit. It has features such as registration, search on maps and updating. This is a project of the third edition of the [Rocketseat](https://github.com/Rocketseat) Next Level Week event made with ReactJS and React Native.
 
 ## Prerequisites for running and testing this application
 
