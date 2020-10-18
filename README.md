@@ -15,7 +15,7 @@
 <p align="center">
   <a href="#about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#tecnologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#funcionalities">Funcionalities</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#functionalities">Functionalities</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#links">Live versions</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#clone-this-repository">Clone this repository</a>
 </p>
@@ -49,7 +49,7 @@ An web and mobile application where the user can register orphanages or look for
 - [TypeORM](https://typeorm.io/#/)
 
 
-## Funcionalities
+## Functionalities
 
 - Register a new orphanage
 - View all orphanages registered.
