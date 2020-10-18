@@ -16,7 +16,7 @@
   <a href="#about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#functionalities">Functionalities</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#links">Live versions</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#layouts">Layouts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#clone-this-repository">Clone this repository</a>
 </p>
 
@@ -56,7 +56,7 @@ An web and mobile application where the user can register orphanages or look for
 - See details of each orphanage.
 
 
-## Links
+## Layouts
 
 In the following links you will find the versions in UI Design Web and Mobile
 
