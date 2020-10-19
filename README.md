@@ -34,7 +34,7 @@
 
 ## About
 
-An web and mobile application where the user can register orphanages or look for one to visit. It has features such as registration, search on maps and updating. This is a project of the third edition of the [Rocketseat](https://github.com/Rocketseat) Next Level Week event made with ReactJS and React Native.
+An web and mobile application where the user can register orphanages or look for one to visit. It has features such as registration, search on maps and updating. This is a project of the Next Level Week.
 
 
 ## Technologies
@@ -51,8 +51,8 @@ An web and mobile application where the user can register orphanages or look for
 
 ## Functionalities
 
-- Register a new orphanage
-- View all orphanages registered.
+- Register a new orphanage;
+- View all orphanages registered;
 - See details of each orphanage.
 
 
